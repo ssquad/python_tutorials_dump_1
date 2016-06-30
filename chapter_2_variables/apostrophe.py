@@ -2,7 +2,10 @@
 message = "One of Python's strengths is its diverse community."
 print(message)
 
-message = 'One of Python's strengths is its diverse community.'
+#Changed the quotes on this, otherwise, file wouldn't run
+#You can wrap single quotes within double quotes
+# Was message = 'One of Python's strengths is its diverse community.'
+message = "One of Python's strengths is its diverse community."
 print(message)
 
 #NAMES APOSTROPHES AND QUOTES
