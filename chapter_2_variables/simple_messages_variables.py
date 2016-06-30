@@ -1,0 +1,6 @@
+drive_message = ("on our way to NY")
+drive_route = ("95 to NJ Turnpike to 87")
+drive_purpose = ("see nani and grampa and rose, tim and the kids")
+print(drive_message)
+print(drive_route)
+print(drive_purpose)
